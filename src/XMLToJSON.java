@@ -3,7 +3,7 @@ public class XMLToJSON {
     public static void main(String[] args) {
         XMLToJSON xmltojson = new XMLToJSON();
         String xml;
-        xml = xmltojson.ConvertXMLToJSON("");
+        xml = xmltojson.ConvertXMLToJSON("<a><b type='1'>teste1</b><b type='2'>teste2></b></a>");
         System.out.println(xml);
     }
 
