@@ -37,3 +37,5 @@ Alguns exemplos:
 Você pode utilizar este código em Java em projetos SOA SUITE, bastando fazer o embedded deste código para a conversão.
 
 Para utilização com o Oracle Integration (OIC), você pode utilizar o mesmo código, porém em Javascript que se encontra em: https://github.com/hoshikawa2/js-xml-to-json
+
+IMPORTANTE: O código-fonte deve ser utilizado por conta e risco. Não há suporte e/ou vínculo com qualquer empresa. O código-fonte é livre para modificações e foi construído apenas com a finalidade de ajudar a comunidade pois foi difícil encontrar algo que pudesse ser útil em casos bem específicos. O código-fonte possui limitações de parsing, portanto, se encontrar algo, reporte na página porém não espere por correções.
