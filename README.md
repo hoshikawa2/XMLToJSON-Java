@@ -36,6 +36,12 @@ Alguns exemplos:
      <element index="2">...</element>
     </root>
     
+    Neste exemplo:
+    <a><b type='1'>teste1</b><b type='2'>teste2></b></a>
+    
+    A conversão resultaria em:
+    {"a":{"b":"teste1","b":"teste2"}}}
+    
 ### Utilização em OIC e Oracle SOA SUITE
 
 Você pode utilizar este código em Java em projetos SOA SUITE, bastando fazer o embedded deste código para a conversão.
