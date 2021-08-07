@@ -32,3 +32,8 @@ Alguns exemplos:
      <element index="2">...</element>
     </root>
     
+### Utilização em OIC e Oracle SOA SUITE
+
+Você pode utilizar este código em Java em projetos SOA SUITE, bastando fazer o embedded deste código para a conversão.
+
+Para utilização com o Oracle Integration (OIC), você pode utilizar o mesmo código, porém em Javascript que se encontra em: https://github.com/hoshikawa2/js-xml-to-json
