@@ -18,3 +18,17 @@ NodeJS e JQuery são frameworks também que restrigem ao uso se seu código perm
 
 Portato, este código em Java permite a conversão caso você esteja restrito a estes problemas acima descritos.
 
+Alguns exemplos:
+
+    <root>
+     <element>...</element>
+     <element>...</element>
+    </root>
+    
+    ou
+    
+    <root>
+     <element index="1">...</element>
+     <element index="2">...</element>
+    </root>
+    
